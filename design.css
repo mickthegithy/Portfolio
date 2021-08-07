@@ -1,0 +1,73 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image:url(images/44.jpg);
+    background-position:center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    background-color:black;
+    text-align:center;
+}
+a{
+    text-decoration:none;
+}
+a:link{
+    color:rgb(240, 113, 113);
+}
+a:visited{
+    color:rgb(197, 92, 92);
+}
+a:hover{
+    color:rgb(255, 153, 158);
+   
+}
+ul a{
+  
+   border:2px solid rgb(185, 2, 78);
+   font-size:2vw;
+   margin: 20px;
+   padding:6px;
+
+}
+#ind li{
+    display:inline;
+}
+#sayhi{
+   
+    margin-top:200px;
+    font-size:3vw;
+    color:rgb(240, 54, 101);
+   
+}
+#intro{
+    font-size:5vw;
+    color:rgb(247, 68, 113);
+}
+#mypic{
+    display:block;
+   margin-left:auto;
+   margin-right:auto;
+    
+}
+#ab{
+
+    border:2px solid rgb(51, 119, 136);
+    
+}
+#edu{
+    min-width: 100px;
+    background-color:rgba(118, 133, 139, 0.384);
+    line-height: 20px;
+}
+table td{
+    font-size:2vw;
+    line-height: 10px;
+}
+.det{
+    
+    line-height: 40px;
+}
+.fields{
+    border:2px solid rgb(235, 165, 35);
+
+}
